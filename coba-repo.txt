@@ -4,4 +4,4 @@ Coba:
       3. check
       4. ini tambahannya
       5. perbanyak coba
-      7. hapus beberapa
+      7. hapus beberapa: seperti games
